@@ -17,9 +17,9 @@ public class AppTest
      */
     public AppTest( String testName )
     {
-     System.out.println("First change by X May 27 1.1");
-     System.out.println("First change by X May 27 1.2");
-     System.out.println("First change by X May 27 1.3");
+     System.out.println("First change by X May 27 2.1");
+     System.out.println("First change by X May 27 2.2");
+     System.out.println("First change by X May 27 2.3");
     }
 
     /**
