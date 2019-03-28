@@ -17,7 +17,9 @@ public class AppTest
      */
     public AppTest( String testName )
     {
-        super( testName );
+     System.out.println("First change by X May 27 1.1");
+     System.out.println("First change by X May 27 1.2");
+     System.out.println("First change by X May 27 1.3");
     }
 
     /**
