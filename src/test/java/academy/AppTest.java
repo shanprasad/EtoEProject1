@@ -17,9 +17,9 @@ public class AppTest
      */
     public AppTest( String testName )
     {
-     System.out.println("First change by X May 27 3.1 In develop branch");
-     System.out.println("First change by X May 27 3.2 In develop branch");
-     System.out.println("First change by X May 27 3.3 In develop branch");
+     System.out.println("First change by Y May 27 5.1 In develop branch");
+     System.out.println("First change by Y May 27 5.2 In develop branch");
+     System.out.println("First change by Y May 27 5.3 In develop branch");
     }
 
     /**
